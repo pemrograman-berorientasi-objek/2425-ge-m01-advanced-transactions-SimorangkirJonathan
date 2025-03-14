@@ -1,7 +1,7 @@
 package fintech.model;
 
 /**
- * @author NIM Nama
+ * @author NI
  * @author NIM Nama
  */
 public class Account {
